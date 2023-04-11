@@ -1,0 +1,13 @@
+HTML and CSS
+
+-html is a markup language and not a programming language
+-visible content of your website takes place in body tag
+-metadata of your website is written into head tag ( title, linking another files )
+-how to run HTML file from browser ( file protocol and local host )
+-different tags or html elements are main part of html
+ -p,h1 to h6, strong, em, small, ul-li, ol-li, div(devide content into sections), span
+  br, hr, comments<!-- -->
+-Attrributes- gives more info about perticular elements
+-img ... src="path" alt="description"
+-a ... href
+-*... style
