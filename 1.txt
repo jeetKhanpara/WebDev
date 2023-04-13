@@ -31,4 +31,5 @@ CSS
 -#id(unique), .class(multiple ) as a selector
 -decendant selector (space matters)
 -attribute selector with *,$
--cascade(from top to bottom), inheritance
+-cascade(from top to bottom), inheritance(just test it how different selectors works)
+https://youtu.be/kGW8Al_cga4
