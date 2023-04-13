@@ -11,3 +11,24 @@ HTML and CSS
 -img ... src="path" alt="description"
 -a ... href
 -*... style
+
+forms:
+-label ... for="id or name" used for all form tags
+-input... type,id(unique and can be given to any element),
+          name(for backend developer to easily find element)
+              -important when we want to choise from multiple option(button,checkbox)
+               here value is also used   
+-select ... option
+-textarea rows,cols,placeholder
+-submit value
+
+CSS
+-inline, internal(head), external
+-selectors(tags){property:value;(declarations)}
+-general styles: color,bgcolor,alignment,border,text-decoration,column-gap,many properties as per required
+-inline,block,inline-block display property and how margin-padding works for that perticular ones
+-default browser style
+-#id(unique), .class(multiple ) as a selector
+-decendant selector (space matters)
+-attribute selector with *,$
+-cascade(from top to bottom), inheritance
